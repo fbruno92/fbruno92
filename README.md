@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+![snake gif](https://github.com/fbruno92/fbruno92v/blob/output/github-contribution-grid-snake.svg)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/f/f/blob/output/snake.svg" alt="Snake animation" />
