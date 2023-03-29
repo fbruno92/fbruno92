@@ -1,4 +1,4 @@
-<p align="left">Hello World!!<br><br>I'm a systems analysis and development student with focus on C, Python, Django, SQL Server, JS, HTML and CSS.<br><br>I have been really interested about technology since my first experience with a computer.</p>
+<p align="left">Hello World!!<br><br>I'm a systems analysis and development student with focus on C, Python, Django, SQL Server, JS, Linux, HTML and CSS.<br><br>I have been really interested about technology since my first experience with a computer.</p>
 
 
 <div align="left">
